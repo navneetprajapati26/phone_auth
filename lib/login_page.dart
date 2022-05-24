@@ -17,7 +17,7 @@ class _LoginPageState extends State<LoginPage> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          "log in (this is experimant branch) navneet ",
+          "log in (this is experimant branch) navneet ujala ",
           style: TextStyle(
             color: Colors.black,
             fontSize: 25,
